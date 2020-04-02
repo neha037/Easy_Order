@@ -1,2 +1,2 @@
 # Easy_Order
-Light weight java application to recive order from customer and display total amount.
+Lightweight java application to receive orders from a customer and display total amount. This is made by using Core Java and Swing.
