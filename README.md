@@ -1,7 +1,4 @@
 # Easy_Order
-
-Lightweight java application to . This is made by using Core Java and Swing.
-
 ---
 - A application to receive orders from a customer and display total amount.
 - Made by Core Java and Swing
